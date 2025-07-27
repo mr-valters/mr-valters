@@ -1,6 +1,6 @@
 # Valters Šverns
 
-Hi! I'm a **Web Developer** from Latvia. Coding since 1999, experience crafting custom web solutions and digital tools.
+Hi! I'm a **Web Developer** from Latvia. Since 1999 crafting custom web solutions and digital tools.
 
 ## 📊 Projects Summary (2000–2024)
 
