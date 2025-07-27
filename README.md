@@ -29,7 +29,7 @@ Hi! I'm a **Web Developer** from Latvia with 20+ years crafting custom web solut
 
 Maintenance work included - security updates, performance optimization, bug fixes, system logs, documentation.
 
-Read more in [R.I.P. Portfolio 2020 - 2024](https://www.jsmonta.com/p/rip-portfolio)
+Read more - [R.I.P. Portfolio 2020 - 2024](https://www.jsmonta.com/p/rip-portfolio)
 
 ## Currently
 
