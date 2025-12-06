@@ -1,8 +1,8 @@
 # Valters Šverns
 
-Hi! I'm a **Web Developer** from Latvia. Since 1999 crafting custom web solutions and digital tools.
+Hi! I'm a **Web Developer** from Latvia. I’ve been building digital tools and websites since my teenage years.
 
-## 📊 Projects Summary (2000–2024)
+## 📊 Selected Projects
 
 ### Latvia 🇱🇻
 
@@ -43,9 +43,9 @@ Hi! I'm a **Web Developer** from Latvia. Since 1999 crafting custom web solution
 
 Maintenance work included: security updates, performance optimization, bug fixes, system logs, and documentation.
 
-📎 Detailed about each project — [R.I.P. Portfolio 2020–2024](https://www.jsmonta.com/p/rip-portfolio)
+📎 Detailed about each project — [Cross‑Border Codeworks](https://www.jsmonta.com/p/cross-border-codeworks)
 
 ## 🔧 Currently
 
-Contributing as a **Web Platform Developer** at the  
+Contributing as a **Web Platform Developer** at the 
 [State Education Development Agency, Republic of Latvia](https://www.viaa.gov.lv/en)
