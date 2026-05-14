@@ -83,7 +83,7 @@ Hi! I'm a **Web Developer** from Latvia. I’ve been building digital tools and 
 ### Other Regions 🌍
 
 <details>
-<summary><b>Estonia 🇪🇪 & Slovenia 🇸🇮</b></summary>
+<summary><b>Estonia 🇪🇪 & Slovenia 🇸🇮 (3 projects, ~1 year)</b></summary>
 
 - **Slovenia**: Information security system management assessment framework (3 months)
 - **Estonia**: Newspaper web-store with 3 parallel payment methods (5 months)
